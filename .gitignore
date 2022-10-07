@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Additional things to ignore
+.DS_Store
+.desktop_ini
